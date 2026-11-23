@@ -1,0 +1,6 @@
+@UniFlow_HostAddress = http://localhost:5032
+
+GET {{UniFlow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
